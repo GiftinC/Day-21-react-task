@@ -1,18 +1,45 @@
-.cards {
-  display: block;
+.nav {
+    display: block;
+    padding-left: 200px;
+    height: 60px;
+    align-content: center;
 }
+
+.header {
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 300px;
+    justify-content: center;
+    align-content: center;
+}
+
+.footer {
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 150px;
+    justify-content: center;
+    align-content: center;
+}
+.cards {
+    margin-top: 100px;
+   text-align: center;
+} 
 
 .card {
   display: inline-flex;
   margin: 25px;
   text-align: center;
-  align-content: center;
-  justify-content: center;
 }
 
-.button {
+.cart{
+    margin-right: 200px;
   color: black;
   background-color: white;
+padding: 0%;
 }
 
 .checked {
@@ -24,3 +51,9 @@
 .price {
     margin: 10px;
 }
+
+a {
+    padding: 10px;
+   color: black !important
+}     
+
