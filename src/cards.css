@@ -1,0 +1,26 @@
+.cards {
+  display: block;
+}
+
+.card {
+  display: inline-flex;
+  margin: 25px;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.button {
+  color: black;
+  background-color: white;
+}
+
+.checked {
+  color: orange;
+}
+.card-body {
+  align-items: center;
+}
+.price {
+    margin: 10px;
+}
