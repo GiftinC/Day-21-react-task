@@ -116,12 +116,12 @@ const Cards = () => {
             <nav className="nav">
                 <div className="navbar">
                     <div>
-                    <a className="navbar-brand">Start Bootstrap</a>
-                    <a href="http://">Home</a>
-                    <a href="http://">About</a>
-                    <a href="http://">Shop</a>
+                        <a className="navbar-brand">Start Bootstrap</a>
+                        <a href="http://">Home</a>
+                        <a href="http://">About</a>
+                        <a href="http://">Shop</a>
                     </div>
-                    <div style={{marginRight:50}}>
+                    <div style={{ marginRight: 50 }}>
                         <button className="btn btn-outline-dark cart" type="submit">
                             <i className="fa fa-shopping-cart" style={{ fontSize: 18, margin: 5 }}></i>
                             Cart<span className="badge rounded-pill bg-dark" style={{ margin: 5 }}>{carted.length}</span></button>

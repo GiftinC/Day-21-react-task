@@ -1,33 +1,33 @@
 .nav {
-    display: block;
-    padding-left: 200px;
-    height: 60px;
-    align-content: center;
+  display: block;
+  padding-left: 200px;
+  height: 60px;
+  align-content: center;
 }
 
 .header {
-    display: block;
-    background-color: black;
-    color: white;
-    text-align: center;
-    height: 300px;
-    justify-content: center;
-    align-content: center;
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 300px;
+  justify-content: center;
+  align-content: center;
 }
 
 .footer {
-    display: block;
-    background-color: black;
-    color: white;
-    text-align: center;
-    height: 150px;
-    justify-content: center;
-    align-content: center;
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 150px;
+  justify-content: center;
+  align-content: center;
 }
 .cards {
-    margin-top: 100px;
-   text-align: center;
-} 
+  margin-top: 100px;
+  text-align: center;
+}
 
 .card {
   display: inline-flex;
@@ -35,11 +35,11 @@
   text-align: center;
 }
 
-.cart{
-    margin-right: 200px;
+.cart {
+  margin-right: 200px;
   color: black;
   background-color: white;
-padding: 0%;
+  padding: 0%;
 }
 
 .checked {
@@ -49,11 +49,10 @@ padding: 0%;
   align-items: center;
 }
 .price {
-    margin: 10px;
+  margin: 10px;
 }
 
 a {
-    padding: 10px;
-   color: black !important
-}     
-
+  padding: 10px;
+  color: black !important;
+}
